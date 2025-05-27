@@ -1,3 +1,2 @@
-# git-test
-My first GitHub repo!
-Hello world!
+# Hello, I'm Eleni Androutsou
+Welcome to my portfolio. 
