@@ -3,7 +3,7 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ## Table of Contents
-- [Power BI](#how-to-create-your-profile)
+- [Power BI](#power-bi)
 - [SQL](#how-to-customize-markdown-files)
 - [Python](#how-to-create-new-repository)
 
