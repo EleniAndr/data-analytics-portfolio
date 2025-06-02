@@ -11,8 +11,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Power BI
 ---
 ## SQL
-- **_8-weeks SQL challenge_**
-
+- **_8-week SQL challenge_**
+[here]()
 ```sql
 SELECT *
 FROM student_info
