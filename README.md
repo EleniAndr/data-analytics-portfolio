@@ -6,9 +6,17 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Power BI](#power-bi)
 - [SQL](#sql)
 - [Python](#python)
+---
 
 ## Power BI
-
+---
 ## SQL
+- **_8-weeks SQL challenge_**
 
+```sql
+SELECT *
+FROM student_info
+WHERE student_name = 'Katie';
+```
+---
 ## Python
