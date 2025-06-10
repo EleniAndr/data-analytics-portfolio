@@ -9,6 +9,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ---
 
 ## Power BI
+- **_Global AI Content Impact_** [Dashboard]()
 ---
 ## SQL
 - **_8-week SQL challenge_**
