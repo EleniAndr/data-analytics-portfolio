@@ -13,10 +13,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ---
 ## SQL
 - **_[8-week SQL challenge](#8-week-challenge-sql)_**
-```sql
-SELECT *
-FROM student_info
-WHERE student_name = 'Katie';
-```
 ---
 ## Python
