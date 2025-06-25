@@ -12,8 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - **_Global AI Content Impact_** [Dashboard]()
 ---
 ## SQL
-- **_8-week SQL challenge_**
-[here]()
+- **_[8-week SQL challenge](#8-week-challenge-sql)_**
 ```sql
 SELECT *
 FROM student_info
